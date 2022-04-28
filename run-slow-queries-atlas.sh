@@ -5,7 +5,7 @@ then
 fi
 
 #mongo $1 --username $2 --password $3 --eval '
-mongo --host $1 --username $2 --eval '
+mongo $1 --username $2 --eval '
 
 
 
